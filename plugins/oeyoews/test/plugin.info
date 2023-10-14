@@ -1,0 +1,9 @@
+{
+	"version": "0.0.1",
+	"type": "application/json",
+	"title": "$:/plugins/oeyoews/test",
+	"plugin-type": "plugin",
+	"name": "TEST",
+	"author": "oeyoews",
+	"list": "readme"
+}
